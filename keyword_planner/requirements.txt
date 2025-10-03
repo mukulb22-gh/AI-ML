@@ -1,0 +1,12 @@
+streamlit
+typesense
+python-dotenv
+
+
+langchain
+langchain-core
+langchain-community
+langchain-groq
+
+requests
+BeautifulSoup4

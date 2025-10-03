@@ -1,0 +1,18 @@
+[project]
+name = "keyword-planner"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.13.5",
+    "langchain>=0.3.27",
+    "langchain-community>=0.3.29",
+    "langchain-core>=0.3.76",
+    "langchain-groq>=0.3.8",
+    "python-dotenv>=1.1.1",
+    "requests>=2.32.5",
+    "streamlit>=1.50.0",
+    "typesense>=1.1.1",
+    "types-requests>=2.32.0.20240712",
+]
